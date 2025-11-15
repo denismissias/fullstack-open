@@ -5,6 +5,7 @@ This part introduces the React library and JavaScript features essential for und
 ## Exercises
 
 ### Course Information (1.1-1.5)
+See the [courseinfo](./courseinfo) directory for the implementation.
 - 1.1: course information, step1
 - 1.2: course information, step2
 - 1.3: course information, step3
